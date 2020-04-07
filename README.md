@@ -1,13 +1,17 @@
 ## Mail Signature
 
-Prosty (prymitywny... :blush:) `html` z propozycją stopki mailowej.
+Prosty (bardzo prosty... :blush:) `html` z propozycją stopki mailowej.
+
+Tylko segment `body`, gotowy do podmiany we właściwym pliku `.mailsignature` na Mac'u, testowany też na Windows.
+
+[Tutaj są instrukcje jak zmienić stopkę w Mail'u dla Catalina](http://matt.coneybeare.me/how-to-make-an-html-signature-in-apple-mail-for-macos-catalina-10-dot-15/).
 
 **PRy mile widziane!** :rocket:
 
 ---
 
 ![Last commit](https://img.shields.io/github/last-commit/Casprovy/mail-signat-Ignibit)
-![RepoSize](https://img.shields.io/github/repo-size/casprovy/mail-signat-Ignibit?color=ff69b4)
+![RepoSize](https://img.shields.io/github/repo-size/Casprovy/mail-signat-Ignibit?color=ff69b4)
 
 <p align="center">
 <img src="https://res.cloudinary.com/ohcash/image/upload/v1586202681/mailsign/ScreenshotMailSign.png" width="70% alt="screenshot">
