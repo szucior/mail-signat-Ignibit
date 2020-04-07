@@ -2,9 +2,8 @@
 
 Prosty (bardzo prosty... :blush:) `html` z propozycją stopki mailowej.
 
-Tylko segment `body`, gotowy do podmiany we właściwym pliku `.mailsignature` na Mac'u, testowany też na Windows.
+W związku z przeznaczeniem, kod zawiera tylko segment `body`.
 
-[Tutaj są instrukcje jak zmienić stopkę w Mail'u dla Catalina](http://matt.coneybeare.me/how-to-make-an-html-signature-in-apple-mail-for-macos-catalina-10-dot-15/).
 
 **PRy mile widziane!** :rocket:
 
